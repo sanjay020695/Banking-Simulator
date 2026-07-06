@@ -124,9 +124,4 @@ This project is for educational purposes. You may modify and use it as needed.
 
 ---
 
-## 👩‍💻 Author
-
-**Sanjay Kumar**
-🔗 [GitHub](https://github.com/sanjay020695)
-
 > ⭐ If you found this project helpful, consider giving it a star!
